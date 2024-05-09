@@ -78,3 +78,4 @@ chave_label.pack(pady=5)
 janela.geometry('700x300') #Definir tamanho da janela.
 
 janela.mainloop() #Inicia o loop principal da aplicação.
+
