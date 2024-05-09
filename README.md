@@ -1,4 +1,4 @@
 # Criptografia
  Primeiro Projeto
 
-Projeto feito apenas para estudo.
+Projeto feito em python apenas para estudo.
